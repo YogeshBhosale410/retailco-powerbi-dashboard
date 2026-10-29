@@ -8,7 +8,7 @@ An end-to-end Power BI practice project: cleaning a messy multi-table dataset in
 
 ## Dashboard preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard (https://github.com/YogeshBhosale410/retailco-powerbi-dashboard/blob/main/dashbord.png")
 
 ---
 
@@ -186,4 +186,4 @@ Other observations from the dashboard:
 
 **Yogesh Bhosale**
 BCA graduate pursuing a Data Analyst role.
-LinkedIn: _add your link_ | GitHub: _add your link_
+LinkedIn: linkedin.com/in/yogesh-bhosale-71391231a | GitHub: [_add your link_](https://github.com/YogeshBhosale410/retailco-powerbi-dashboard)
